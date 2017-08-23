@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     TextView totalcgpa, totalcredit;
-    Spinner cradenumber;
+    Spinner cradenumber,test;
     EditText gradePointNumber;
     Button add;
 
